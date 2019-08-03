@@ -1,15 +1,9 @@
 parts {
     portrait {
         background {
-            image   device_Port.png
+            image   S10edevice_Port.png
         }
 			
-    }
-    landscape {
-        background {
-            image   device_Land.png
-        }
-		
     }
 
     device {
