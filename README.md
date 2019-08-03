@@ -1,6 +1,9 @@
 # SamsungDeviceSkins
 AVD Samsung Device Skins for Android Studio
 
+The official Samsung Hardware Device profiles are bulky and they take up an unnecessary portion of my workspace. 
+These device skins won't take up a significant portion of your workspace.
+
 ### Requirements
 
 Android-Studio
