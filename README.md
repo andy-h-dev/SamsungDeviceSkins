@@ -17,4 +17,4 @@ Android-Studio
 - 1.2) `cd SamsungDeviceSkins` - cd into your newly created project directory.
 - 1.3) Copy each of the device directories into your Android Skins directory -Adnroid/SDK/Skins
 
-![](screenshot/S10e Device.png)
+![](S10eDevice.png)
