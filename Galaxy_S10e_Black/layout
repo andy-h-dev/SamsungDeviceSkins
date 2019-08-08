@@ -3,6 +3,9 @@ parts {
         background {
             image   S10edevice_Port.png
         }
+        foreground {
+            mask s10eDeviceCorners.png
+        }
 			
     }
 
