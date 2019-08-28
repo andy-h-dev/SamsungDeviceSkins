@@ -27,3 +27,4 @@ The official Samsung Device Profile (BEFORE)
 ![](S10eBeforeScreenshot.png)
 
 Modified Samsung Device Profile (AFTER)
+See screenshot attached at the top
